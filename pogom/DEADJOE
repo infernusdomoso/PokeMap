@@ -1,0 +1,799 @@
+
+*** These modified files were found in JOE when it aborted on Tue Sep  6 02:02:11 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+691
+137
+137
+600
+137
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+$pt
+$p
+$pts[$i
+$pts[
+max
+$pt[
+heaterson
+wipe
+}\n\nfunction
+Obj
+
+*** File '(Unnamed)'
+dbq
+search_worker_thread
+db_updates
+search_o
+db_updates
+db_updater
+bulk_upsert
+upsert
+alerted
+Pokemon
+Pokemon
+
+*** File '(Unnamed)'
+../static/dist/data/pokemon.min.json
+..history
+models.py
+models.py
+models.py
+search.py
+search.py
+search.py
+../runserver.py
+models.py
+models.py
+models.py
+models.py
+models.py
+models.py
+
+*** File '* Startup Log *'
+Processing '*joerc'...
+Processing '*ftyperc'...
+Finished processing *ftyperc
+Finished processing *joerc
+
+*** These modified files were found in JOE when it aborted on Thu Sep  8 10:50:18 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+$p
+$pts[$i
+$pts[
+max
+$pt[
+heaterson
+wipe
+}\n\nfunction
+Obj
+['longitude']
+
+*** File '(Unnamed)'
+guessindent
+guess
+get_dist
+calc_dist
+argv[6]
+current_lo
+parse_map
+get_loc
+cc
+cc:
+
+*** File '(Unnamed)'
+transform.py
+models.py
+models.py
+models.py
+transform.py
+transform.py
+transform.py
+models.py
+transform.py
+transform.py
+transform.py
+transform.py
+transform.py
+transform.py
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Mon Sep 12 05:45:31 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+146
+146
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+$pts[
+max
+$pt[
+heaterson
+wipe
+}\n\nfunction
+Obj
+['longitude']
+current_stepsize
+step_limit
+
+*** File '(Unnamed)'
+.alert
+insert
+pokeAl
+Alert
+enable_al
+enable_al
+.alert
+Pokemon
+.alert
+PokeAlert
+PokeAlert
+delete
+
+*** File '(Unnamed)'
+app.py
+app.py
+app.py
+models.py
+models.py
+models.py
+xx
+models.py
+models.py
+app.py
+models.py
+models.py
+models.py
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Fri Sep 23 15:21:51 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+['longitude']
+current_stepsize
+step_limit
+swipe.php
+def
+hp
+def
+hp
+poke
+poke[
+
+*** File '(Unnamed)'
+try:
+float
+..
+strf
+ddt
+strft
+DB entry
+poke_stat
+z=
+zoom
+
+*** File '(Unnamed)'
+models.py
+models.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+models.py
+search.py
+search.py
+search.py
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Mon Sep 26 00:00:45 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+['longitude']
+current_stepsize
+step_limit
+swipe.php
+def
+hp
+def
+hp
+poke
+poke[
+
+*** File '(Unnamed)'
+latitude
+BaseModel
+init_database
+init_datab
+db
+mults_
+search_worker_thread
+init)_db
+init_db
+init
+app.
+NOW() 
+
+*** File '(Unnamed)'
+models.py
+../runserver.py
+models.py
+../runserver.py
+models.py
+search.py
+search.py
+search.py
+search.py
+models.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Mon Sep 26 07:53:04 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+646
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+current_stepsize
+step_limit
+swipe.php
+def
+hp
+def
+hp
+poke
+poke[
+3.5 MINUTE
+
+*** File '(Unnamed)'
+ScannedL
+getColor
+getcolor
++rlat
+Locations
+timedel
+execute(
+dicts
+Searching step
+models
+random
+last_search_id
+
+*** File '(Unnamed)'
+models.py
+models.py
+search.py
+search.py
+search.py
+models.py
+models.py
+models.py
+models.py
+models.py
+search.py
+search.py
+search.py
+xx
+xx
+search.py
+search.py
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Mon Sep 26 15:29:00 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+current_stepsize
+step_limit
+swipe.php
+def
+hp
+def
+hp
+poke
+poke[
+3.5 MINUTE
+
+*** File '(Unnamed)'
+Vars
+InsertQ
+scanradius
+radius
+raw_d
+rawdatais
+loadRaw
+store
+scan-radius
+console.log
+zoomLevel
+scan-rad
+next-loc
+next_loc
+changesearch
+changeLocation
+
+*** File '(Unnamed)'
+models.py
+search.py
+xx
+search.py
+app.py
+models.py
+models.py
+app.py
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Wed Sep 28 10:46:03 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+def
+hp
+poke
+poke[
+3.5 MINUTE
+set
+.get
+.set
+.set
+.get
+
+*** File '(Unnamed)'
+Vars.set
+.set_var
+Vars
+.get_var
+.set_var
+.set_var
+.get_var
+Vars
+searchrad
+numeric
+start at
+Search
+style settings
+
+*** File '(Unnamed)'
+models.py
+app.py
+models.py
+models.py
+models.py
+search.py
+search.py
+search.py
+models.py
+models.py
+../templates/map.html
+../templates/map.html
+../templates/map.html
+../templates/map.html
+../templates/map.html
+../templates/map.html
+../templates/map.html
+../templates/map.html
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Mon Oct  3 20:32:59 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+poke
+poke[
+3.5 MINUTE
+set
+.get
+.set
+.set
+.get
+autoloc
+autoloc
+
+*** File '(Unnamed)'
+updateMap
+updateMap
+panTo
+autoloc
+autoloc
+panTo
+panTo
+setPos
+panTo
+lastloc
+
+*** File '(Unnamed)'
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+models.py
+search.py
+search.py
+search.py
+app.py
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+../static/dist/js/map.min.js
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Tue Oct  4 14:07:37 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+618
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+poke
+poke[
+3.5 MINUTE
+set
+.get
+.set
+.set
+.get
+autoloc
+autoloc
+
+*** File '(Unnamed)'
+get_map
+timestamps
+since_time]
+since_ti
+get_inv
+get_play
+cell_
+set_position
+login
+bot and
+
+*** File '(Unnamed)'
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+search.py
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Wed Oct  5 16:45:18 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+1075
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+poke[
+3.5 MINUTE
+set
+.get
+.set
+.set
+.get
+autoloc
+autoloc
+random.random()
+monmult
+lonmult
+
+*** File '(Unnamed)'
+s in spa
+location
+Location
+s in spa
+update
+s in spa
+lastscan
+deadzone
+s in spa
+botting
+Locations
+locmult
+monmult
+
+*** File '(Unnamed)'
+search.py
+transform.py
+models.py
+models.py
+models.py
+models.py
+models.py
+models.py
+models.py
+search.py
+models.py
+models.py
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Thu Oct  6 20:22:01 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+3.5 MINUTE
+set
+.get
+.set
+.set
+.get
+autoloc
+autoloc
+random.random()
+toFixed(0)
+
+*** File '(Unnamed)'
+check_login
+check_login
+check_c
+chalkl
+chall
+xx
+xx:
+IV:
+player
+_player
+_sql
+captcha
+chall
+check_login
+
+*** File '(Unnamed)'
+VerifyChallengeMessage_pb2.py
+EncounterMessage_pb2.py
+VerifyChallengeMessage_pb2.py
+EncounterMessage_pb2.py
+VerifyChallengeMessage_pb2.py
+sx
+pogom/search.py
+pogom/search.py
+../static/dist/js/map.min.js
+search.py
+search.py
+search.py
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Sat Oct 22 16:01:58 2016
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+m
+
+*** File '(Unnamed)'
+hex
+h
+!hex
+
+*** File '(Unnamed)'
+set
+.get
+.set
+.set
+.get
+autoloc
+autoloc
+random.random()
+toFixed(0)
+comp
+
+*** File '(Unnamed)'
+fila
+190
+\r
+108\n
+setpoint
+stepoint
+Setpoint
+108
+first_hash
+generate_location_hash_by_seed
+
+*** File '(Unnamed)'
+main.cpp
+in
+main.cpp
+main.cpp
+main.cpp
+main.cpp
+main.cpp
+libstdc++.so
+liblog.so
+in
+models.py
+
+*** File '* Startup Log *'
+Couldn't load termcap entry.  Using ansi default
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc

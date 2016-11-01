@@ -1,0 +1,10 @@
+		navigator.geolocation && Store.get("geoLocate") && navigator.geolocation.getCurrentPosition(function (a) {
+			var b = location.protocol + "//" + location.hostname + (location.port ? ":" + location.port : ""),
+			c = a.coords.latitude,
+			d = a.coords.longitude;
+			getPointDistance(searchMarker.getPosition(), new google.maps.LatLng(c, d)) > 40 && $.post(b + "/next_loc?lat=" + c + "&lon=" + d).done(function () {
+				var a = new google.maps.LatLng(c, d);
+				map.panTo(a),
+				searchMarker.setPosition(a)
+			})
+		})

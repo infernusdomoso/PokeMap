@@ -1,0 +1,1 @@
+screen python ./runserver.py --cors --auth-service ptc --port 18222 --db-type mysql --db-host localhost --db-name pokemon --db-user ub --db-pass kusa0213 --host 0.0.0.0 --gmaps-key AIzaSyAwQCf7euZqLhCNbOyg5QM_F_AOYiA1LMk -u fred1231231231 -u fred1231231232 -u fred123123123123 -u fred1231231233 -u fred1231231234 --password ferret6 --step-limit 5 -l "17 old forge ct 21152"

@@ -1,0 +1,28 @@
+def get_new_coords(init_loc, distance, bearing):
+    """
+    Given an initial lat/lng, a distance(in kms), and a bearing (degrees),
+    this will calculate the resulting lat/lng coordinates.
+    """
+    origin = geopy.Point(init_loc[0], init_loc[1])
+    destination = geopy.distance.distance(kilometers=distance).destination(origin, bearing)
+    return (destination.latitude, destination.longitude)
+
+
+def generate_location_steps(initial_loc, step_count, step_distance):
+    # Bearing (degrees)
+    NORTH = 0
+    EAST = 90
+    SOUTH = 180
+    WEST = 270
+
+    pulse_radius = step_distance         # km - radius of players heartbeat is 70m
+    xdist = math.sqrt(3) * pulse_radius  # dist between column centers
+    ydist = 3 * (pulse_radius / 2)       # dist between row centers
+
+    results = []
+
+    yneg = 1
+    xneg = 1
+    holder = get_new_coords(initial_loc, xdist, WEST)
+    xoffset = math.floor(abs(abs(initial_loc[1]) - abs(holder[1])) * 50000) / 100000
+    holder = get_new_coords(initial_loc, ydist, NORTH)

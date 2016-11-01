@@ -1,0 +1,17 @@
+#!/usr/bin/python
+import socket
+
+TCP_IP = '127.0.0.1'
+TCP_PORT = 1500
+BUFFER_SIZE = 1024
+m = "61247FBF4043c26ce0000000c05328ade00000004050400000000000"
+
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s.connect((TCP_IP, TCP_PORT))
+s.send(m.decode("hex"))
+data = s.recv(BUFFER_SIZE)
+s.close()
+
+d = int("0x%s" % data.encode("hex"), 0);
+print "received data: %x" % ((d >> 0) ^ (d >> 32))

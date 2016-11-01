@@ -1,0 +1,18 @@
+        for f in cell.get('forts', []):
+            if config['parse_pokestops'] and f.get('type') == 1:  # Pokestops
+                if 'active_fort_modifier' in f:
+                    lure_expiration = datetime.utcfromtimestamp(
+                        f['last_modified_timestamp_ms'] / 1000.0) + timedelta(minutes=30)
+                    active_fort_modifier = f['active_fort_modifier']
+                    if args.webhooks and args.webhook_updates_only:
+                        wh_update_queue.put(('pokestop', {
+                            'pokestop_id': b64encode(str(f['id'])),
+                            'enabled': f['enabled'],
+                            'latitude': f['latitude'],
+                            'longitude': f['longitude'],
+                            'last_modified_time': f['last_modified_timestamp_ms'],
+                            'lure_expiration': calendar.timegm(lure_expiration.timetuple()),
+                            'active_fort_modifier': active_fort_modifier
+                        }))
+                else:
+                    lure_expiration, active_fort_modifier = None, None

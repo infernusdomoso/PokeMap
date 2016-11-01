@@ -1,0 +1,14 @@
+def calc_distance(pos1, pos2):
+    R = 6378.1  # km radius of the earth
+
+    dLat = math.radians(pos1[0] - pos2[0])
+    dLon = math.radians(pos1[1] - pos2[1])
+
+    a = math.sin(dLat / 2) * math.sin(dLat / 2) + \
+        math.cos(math.radians(pos1[0])) * math.cos(math.radians(pos2[0])) * \
+        math.sin(dLon / 2) * math.sin(dLon / 2)
+
+    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+    d = R * c
+
+    return d
